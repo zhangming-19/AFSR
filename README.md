@@ -1,2 +1,2 @@
 # Infant cry recognition
-The source codes and checkpoints for Infant Cry will be released soon~
+The source codes and checkpoints for anomalous sound detection will be released soon~
